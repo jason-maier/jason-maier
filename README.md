@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Jason - a software engineer at Vultron AI
+
 <!--
 **jason-maier/jason-maier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
